@@ -1,0 +1,29 @@
+html, body {
+	width: 100%;
+	min-width: 100%;
+}
+
+body {
+	background: -webkit-linear-gradient(to left, #ee0979 , #ff6a00); 
+	background: linear-gradient(to left, #ee0979 , #ff6a00); 
+
+}
+
+#ramka {
+	width: 600px;
+	height: 500px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin: -250px 0 0 -300px;
+  	left: 50%;
+  	top: 50%;
+  	position: absolute;
+  	box-shadow: 4px 4px lightgrey;
+  	font-family: 'Amatic SC', cursive;
+  	font-size: 4em;
+  	text-align: center;
+
+  }
+
+
